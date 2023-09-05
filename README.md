@@ -4,7 +4,7 @@ Spoofmailer is a powerful tool that requires responsible and ethical usage. Alwa
 
 ## Tool Screenshot
 
-![Alt text](https://raw.githubusercontent.com/Cold-Breazy/Ripper/main/spof.png "screenshot")
+![Alt text](https://raw.githubusercontent.com/Cold-Breazy/Ripper/main/spoof.png "screenshot")
 
 ## AVAILABLE ON :
 
