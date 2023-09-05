@@ -22,7 +22,7 @@ Spoofmailer is a powerful tool that requires responsible and ethical usage. Alwa
 * requests (python package),
 * Internet Connection
 
-## FEATURES :
+## FREE VERSION FEATURES :
 * [+] Updated maintainence !
 * [+] Customise From Email !
 * [+] Set From Name !
@@ -30,7 +30,7 @@ Spoofmailer is a powerful tool that requires responsible and ethical usage. Alwa
 * [+] Set Custom Phish Mail !
 * [+] Easy for Beginners !
 
-## PREMIUM FEATURES :
+## PREMIUM VERSION FEATURES :
 * [✓] SEND HTML MESSAGES !
 * [✓] OPTION TO CUSTOMIZE HTML SECURITY PHISH !
 * [✓] OPTION TO RECEIVE HACKED CREDENTIALS VIA EMAIL !
